@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
-    <title>SOCABON</title>
+    <title>U.E. SOCAVON</title>
   </head>
   <body>
     
