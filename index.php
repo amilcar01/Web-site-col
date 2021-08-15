@@ -1,6 +1,6 @@
 <?php 
-include_once ("incluciones/header.php");
-include_once ("incluciones/carousel.php");
+include_once ("inclusiones/header.php");
+include_once ("inclusiones/carousel.php");
 ?> <br>
 
 <div class="container">
