@@ -18,7 +18,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <img src="img/logo.png" width="40px">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">U.E. Nuetra Sra. de Socabon</a>
+        <a class="navbar-brand" href="index.php">U.E. Nuetra Sra. de Socavon</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -59,8 +59,33 @@
 
     <div class="container">
       <div class="row">
-        <div class="col">
-          <h1>Saludos</h1>
+        <div align="justify">
+          
+          <div class="list-group">
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+              <div class="d-flex w-100 justify-content-between">
+                <h3>Misión</h3>
+              </div>
+            </a>
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+              <p>Fomentar la educación formal y los hábitos sociales y de convivencia adecuados. · Inculcar el respeto hacia el entorno, material y las instalaciones del colegio. · Desarrollar en sus alumnos la autoconfianza.</p>
+            </a>
+          </div> <br>
+
+          <div class="list-group">
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+              <div class="d-flex w-100 justify-content-between">
+                <h3>Visión</h3>
+              </div>
+            </a>
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+              <p>Un Colegio que favorezca la formación integral del alumnado contando con su diversidad, fomentando el espíritu de superación, cooperación, respeto, solidaridad, creatividad y sentido de la trascendencia. ... Un Colegio plurilingüe que sea reconocido en nuestro entorno por una enseñanza de calidad en los idiomas.</p>
+            </a>
+          </div>
+
         </div>
       </div>
     </div>
+
+  </body>
+</html>
