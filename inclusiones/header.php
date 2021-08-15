@@ -38,7 +38,7 @@
               <a class="nav-link" href="plantelDocente.php">Plantel Docente</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="galeriaImg.php">ImagEnes</a>
+              <a class="nav-link" href="galeriaImg.php">Imagenes</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="historia.php">Historia</a>
