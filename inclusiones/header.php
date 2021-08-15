@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
-    <title>SOCABON</title>
+    <title>U.E. SOCAVON</title>
   </head>
   <body>
     
@@ -19,7 +19,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <img src="img/logo.png" width="40px">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">U.E. Nuetra Sra. de Socabon</a>
+        <a class="navbar-brand" href="index.php">U.E. Nuestra Sra. del Socavon</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -38,7 +38,7 @@
               <a class="nav-link" href="plantelDocente.php">Plantel Docente</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="galeriaImg.php">Imagines</a>
+              <a class="nav-link" href="galeriaImg.php">ImagEnes</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="historia.php">Historia</a>
@@ -56,7 +56,7 @@
           </ul>
           <form class="d-flex">
             <input class="form-control me-sm-2" type="text" placeholder="Buscar">
-            <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar</button>
+            <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar...</button>
           </form>
         </div>
       </div>

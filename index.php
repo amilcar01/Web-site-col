@@ -34,5 +34,5 @@ include_once ("inclusiones/carousel.php");
 </div>
 
 <?php 
-include_once ("incluciones/footer.php");
+include_once ("inclusiones/footer.php");
 ?>
