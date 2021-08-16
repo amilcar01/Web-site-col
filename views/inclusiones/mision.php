@@ -5,20 +5,20 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
       <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140"  role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
+        <img src="views/img/actividades.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
+       
         <h2>Actividades</h2>
         <p><a class="btn btn-secondary" href="#">Ver Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140"  role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
+		<img src="views/img/docente.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
+       
         <h2>Plantel Docente</h2>
         <p><a class="btn btn-secondary" href="#">Ver Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
+        <img src="views/img/11.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
+       
         <h2>Historia</h2>
         <p><a class="btn btn-secondary" href="#">Ver Detalles &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
