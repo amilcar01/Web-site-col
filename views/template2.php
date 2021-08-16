@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta charset="UTF-8"/>
+    <!--<meta charset="UTF-8"/> -->
     <link href='views/img/logo.png' rel='shortcut icon' type='image/png'/>
     <link rel="stylesheet" type="text/css" href="views/css/bootstrap.min.css">
     <title>U.E. SOCAVON</title>
@@ -13,8 +13,9 @@
 
     <?php 
     include_once ("inclusiones/header.php");
-    include_once ("inclusiones/inicio.php");
-	include_once ("inclusiones/mision.php");
+    
+
+
 
     include_once ("inclusiones/footer.php");
     ?>
