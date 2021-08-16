@@ -1,3 +1,3 @@
 <?php
-include_once ("incluciones/header.php");
+include_once ("inclusiones/header.php");
 ?>
