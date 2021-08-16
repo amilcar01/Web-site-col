@@ -22,7 +22,7 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Siguiente</span>
           </a>
-        </div>
+        </div><br>
       <!-- carousel -->
     </div>
   </div>
