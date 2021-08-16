@@ -37,8 +37,7 @@
         <p class="lead">Fomentar la educación formal y los hábitos sociales y de convivencia adecuados. · Inculcar el respeto hacia el entorno, material y las instalaciones del colegio. · Desarrollar en sus alumnos la autoconfianza.</p>
       </div>
       <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
+          <img src="views/img/mision.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="150" height="150">
       </div>
     </div>
 
@@ -50,7 +49,7 @@
         <p class="lead">Un Colegio que favorezca la formación integral del alumnado contando con su diversidad, fomentando el espíritu de superación, cooperación, respeto, solidaridad, creatividad y sentido de la trascendencia. ... Un Colegio plurilingüe que sea reconocido en nuestro entorno por una enseñanza de calidad en los idiomas.</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+        <img src="views/img/vision.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="180" height="180">
 
       </div>
     </div>
