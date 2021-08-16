@@ -15,7 +15,6 @@
     include_once ("inclusiones/header.php");
     include_once ("inclusiones/inicio.php");
 	include_once ("inclusiones/mision.php");
-
     include_once ("inclusiones/footer.php");
     ?>
     <script type="text/javascript" src="views/js/jquery-3.6.0.min.js"></script>
