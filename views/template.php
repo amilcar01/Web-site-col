@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8"/>
-    <link href='views/img/logo.png' rel='shortcut icon' type='image/png'/>
+    <link href="views/img/col.ico" rel='shortcut icon' type='image/ico'/>
     <link rel="stylesheet" type="text/css" href="views/css/bootstrap.min.css">
 
     <title>U.E. SOCAVON</title>
