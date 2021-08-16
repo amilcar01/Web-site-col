@@ -5,13 +5,13 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="img/1.jpg" class="d-block w-100" alt="..." height="450">
+              <img src="views/img/1.jpg" class="d-block w-100" alt="..." height="450">
             </div>
             <div class="carousel-item">
-              <img src="img/2.jpg" class="d-block w-100" alt="..."height="450">
+              <img src="views/img/2.jpg" class="d-block w-100" alt="..."height="450">
             </div>
             <div class="carousel-item">
-              <img src="img/3.jpg" class="d-block w-100" alt="..."height="450">
+              <img src="views/img/3.jpg" class="d-block w-100" alt="..."height="450">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">

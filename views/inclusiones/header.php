@@ -1,20 +1,3 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta charset="UTF-8"/>
-    <link href='img/logo.png' rel='shortcut icon' type='image/png'/>
-    
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-
-    <title>U.E. SOCAVON</title>
-  </head>
-  <body>
-    
-
     <!---   menu   --->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <img src="img/logo.png" width="40px">
