@@ -24,17 +24,22 @@
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row --> <br>
 
-      <div class="list-group">
-        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
-          <div class="d-flex w-100 justify-content-between">
-            <h3>Visión</h3>
-          </div>
-        </a>
-        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
-          <p>Un Colegio que favorezca la formación integral del alumnado contando con su diversidad, fomentando el espíritu de superación, cooperación, respeto, solidaridad, creatividad y sentido de la trascendencia. ... Un Colegio plurilingüe que sea reconocido en nuestro entorno por una enseñanza de calidad en los idiomas.</p>
-        </a>
-      </div>
-
     </div>
   </div>
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">VISION </h2>
+        <p class="lead">Un Colegio que favorezca la formación integral del alumnado contando con su diversidad, fomentando el espíritu de superación, cooperación, respeto, solidaridad, creatividad y sentido de la trascendencia. ... Un Colegio plurilingüe que sea reconocido en nuestro entorno por una enseñanza de calidad en los idiomas.</p>
+      </div>
+      <div class="col-md-5">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+
+      </div>
+    </div>
+
 </div>
