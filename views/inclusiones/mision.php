@@ -50,7 +50,6 @@
       </div>
       <div class="col-md-5 order-md-1">
         <img src="views/img/vision.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="180" height="180">
-
       </div>
     </div>
 
