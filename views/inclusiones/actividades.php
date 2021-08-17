@@ -1,7 +1,7 @@
-<?php
-include_once ("inclusiones/header.php");
-?>
-<center><h1>Actividades Unidad Educativa "Nuestra Sra. del Socavon"</h1></center>
+
+
+<br><br>
+<center><h1>Actividades de Unidad Educativa "Nuestra Sra. del Socavon"</h1></center>
 
 <div class="container">
 	<div class="row">
@@ -15,7 +15,7 @@ include_once ("inclusiones/header.php");
 		    <rect width="100%" height="100%" fill="#868e96"></rect> 
 		  </svg>-->
 
-		  <img src="img/1.jpg">
+		  <img src="views/img/1.jpg">
 		  <div class="card-body">
 		    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 		  </div>
@@ -66,6 +66,3 @@ include_once ("inclusiones/header.php");
 	</div>
 </div>
 
-<?
-include_once ("inclusiones/footer.php");    
-?>

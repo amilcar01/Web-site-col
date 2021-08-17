@@ -13,10 +13,11 @@
   <body>
 
     <?php 
-    include_once ("inclusiones/header.php");
-    include_once ("inclusiones/inicio.php");
-	include_once ("inclusiones/mision.php");
-    include_once ("inclusiones/footer.php");
+      include_once ("inclusiones/header.php");
+      include_once ("inclusiones/inicio.php");
+      include_once ("inclusiones/mision.php");
+      include_once ("inclusiones/actividades.php");
+      include_once ("inclusiones/footer.php");
     ?>
 
     <script src="views/js/jquery.min1.js"></script>
