@@ -8,7 +8,8 @@
         <img src="views/img/actividades.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
        
         <h2>Actividades</h2>
-        <p><a class="btn btn-secondary" href="#">Ver Detalles &raquo;</a></p>
+        <!--<p><a class="btn btn-secondary" href="#">Ver Detalles &raquo;</a></p> -->
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#actividades" data-bs-whatever="@mdo">Detalles &raquo;</button>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
 		<img src="views/img/docente.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
