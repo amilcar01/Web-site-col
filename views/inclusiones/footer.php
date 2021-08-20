@@ -3,6 +3,7 @@
     <div class="row">
         <div class="col">
             <center>
+                <hr class="featurette-divider">
                 <label>Unidad Educativa Nuestra señora del Socavon</label>
                 <div class="sb-sidenav-footer">
                     <div class="small">
