@@ -1,8 +1,8 @@
     <!---   menu   --->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-      <img src="views/img/11.jpg" width="40px">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">U.E. Nuestra Sra. del Socavon</a>
+        <img src="views/img/11.jpg" width="40px">
+        <a class="navbar-brand" href="index.php"> Unidad Educativa Socavon</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

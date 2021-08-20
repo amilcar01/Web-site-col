@@ -7,20 +7,20 @@
     <meta charset="UTF-8"/>
     <link href="views/img/col.ico" rel='shortcut icon' type='image/ico'/>
     <link rel="stylesheet" type="text/css" href="views/css/bootstrap.min.css">
-
     <title>U.E. SOCAVON</title>
   </head>
   <body>
 
     <?php 
-      include_once ("inclusiones/header.php");
-      include_once ("inclusiones/inicio.php");
-      include_once ("inclusiones/mision.php");
-      include_once ("inclusiones/actividades.php");
-      include_once ("inclusiones/footer.php");
-    ?>
+        include_once ("inclusiones/header.php");
+        include_once ("inclusiones/inicio.php");
 
+    	include_once ("inclusiones/mision.php");
+        include_once ("inclusiones/galeria.php");
+        include_once ("inclusiones/footer.php");
+    ?>
     <script src="views/js/jquery.min1.js"></script>
+    <script src="views/js/bootstrap.min.js"></script>
     <script src="views/js/bootstrap.bundle.min1.js"></script>
     <script src="views/js/prism1.js"></script>
     <script src="views/js/custom1.js"></script>
