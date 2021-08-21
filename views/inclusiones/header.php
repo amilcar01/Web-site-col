@@ -1,5 +1,5 @@
     <!---   menu   --->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
       <div class="container-fluid">
         <img src="views/img/11.jpg" width="40px">
         <a class="navbar-brand" href="index.php"> Unidad Educativa Socavon</a>
@@ -10,16 +10,16 @@
         <div class="collapse navbar-collapse" id="navbarColor01">
           <ul class="navbar-nav me-auto">
             <li class="nav-item">
-              <a class="nav-link" href="../actividades.php">Actividades</a>
+              <a class="nav-link" href="#">Actividades</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="plantelDocente.php">Plantel Docente</a>
+              <a class="nav-link" href="#">Plantel Docente</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="galeriaImg.php">Imagenes</a>
+              <a class="nav-link" href="#">Imagenes</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="historia.php">Historia</a>
+              <a class="nav-link" href="#">Historia</a>
             </li>
           </ul>
           <form class="d-flex">
