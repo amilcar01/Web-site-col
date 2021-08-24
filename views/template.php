@@ -25,16 +25,18 @@
                 <h2 id="actividades">Actividades</h2>
                 
                 <hr class="featurette-divider">
-                <h2 id="plantel">Plantel docente</h2>
+                <h2 id="plantel">Plantel Docente</h2>
+                <?php 
+                  include_once ("inclusiones/plantel.php");
+                ?>
                 
                 
                 <hr class="featurette-divider">
-                <div id="galeria">
-                  <h2 id="">Galeria de Imágines</h2>
-                  <?php  
-                    include_once ("inclusiones/galeria.php");  
-                  ?>
-                </div>
+                <h2 id="galeria">Galeria de Imágines</h2>
+                <?php  
+                  include_once ("inclusiones/galeria.php");  
+                ?>
+                
                 
 
 

@@ -1,6 +1,4 @@
-<style type="text/css">
-	
-</style>
+
 <!-- galeria -->
 
 

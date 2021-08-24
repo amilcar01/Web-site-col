@@ -13,7 +13,7 @@
               <a class="nav-link" href="#actividades">Actividades</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#plantelDocente">Plantel Docente</a>
+              <a class="nav-link" href="#plantel">Plantel Docente</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#galeria">Galeria</a>
