@@ -16,25 +16,35 @@
         include_once ("inclusiones/inicio.php");
         include_once ("inclusiones/mision.php");
         ?>
+
         <!-------barra de navegacion------->
         <div class="container">
           <div class="row">
             <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
                 <hr class="featurette-divider">
-                <h4 id="actividades">Actividades</h4>
+                <h2 id="actividades">Actividades</h2>
                 
                 <hr class="featurette-divider">
-                <h4 id="plantelDocente">Plantel docente</h4>
+                <h2 id="plantel">Plantel docente</h2>
+                
                 
                 <hr class="featurette-divider">
-                <h4 id="galeria">Galeria de Imágines</h4>
-                  <?php  include_once ("inclusiones/galeria.php");  ?>
+                <div id="galeria">
+                  <h2 id="">Galeria de Imágines</h2>
+                  <?php  
+                    include_once ("inclusiones/galeria.php");  
+                  ?>
+                </div>
+                
+
+
                 <hr class="featurette-divider">
-                <h4 id="historia">historia</h4>
+                <h2 id="historia">historia</h2>
             </div>
           </div>
         </div>
         <!-------barra de navegacion------->
+
         <?php
         include_once ("inclusiones/footer.php");
     ?>
