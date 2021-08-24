@@ -10,13 +10,13 @@
         <div class="collapse navbar-collapse" id="navbarColor01">
           <ul class="navbar-nav me-auto">
             <li class="nav-item">
-              <a class="nav-link" href="#">Actividades</a>
+              <a class="nav-link" href="#actividades">Actividades</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Plantel Docente</a>
+              <a class="nav-link" href="#plantelDocente">Plantel Docente</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Imagenes</a>
+              <a class="nav-link" href="#galeria">Imagenes</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Historia</a>

@@ -14,6 +14,21 @@
     <?php 
         include_once ("inclusiones/header.php");
         include_once ("inclusiones/inicio.php");
+        ?>
+        <div class="container">
+          <div class="row">
+            <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
+                <h4 id="actividades">Actividades</h4>
+                
+                <h4 id="plantelDocente">Plantel docente</h4>
+                
+                <h4 id="galeria">Galeria de Imágines</h4>
+                  <?php  include_once ("inclusiones/galeria.php");  ?>
+                <h4 id="historia">historia</h4>
+            </div>
+          </div>
+        </div>
+        <?php
         include_once ("inclusiones/footer.php");
     ?>
     <script src="views/js/jquery.min1.js"></script>
