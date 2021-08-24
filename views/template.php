@@ -20,12 +20,16 @@
         <div class="container">
           <div class="row">
             <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
+                <hr class="featurette-divider">
                 <h4 id="actividades">Actividades</h4>
                 
+                <hr class="featurette-divider">
                 <h4 id="plantelDocente">Plantel docente</h4>
                 
+                <hr class="featurette-divider">
                 <h4 id="galeria">Galeria de Imágines</h4>
                   <?php  include_once ("inclusiones/galeria.php");  ?>
+                <hr class="featurette-divider">
                 <h4 id="historia">historia</h4>
             </div>
           </div>
