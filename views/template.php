@@ -14,7 +14,9 @@
     <?php 
         include_once ("inclusiones/header.php");
         include_once ("inclusiones/inicio.php");
+        include_once ("inclusiones/mision.php");
         ?>
+        <!-------barra de navegacion------->
         <div class="container">
           <div class="row">
             <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
@@ -28,6 +30,7 @@
             </div>
           </div>
         </div>
+        <!-------barra de navegacion------->
         <?php
         include_once ("inclusiones/footer.php");
     ?>

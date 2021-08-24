@@ -16,10 +16,10 @@
               <a class="nav-link" href="#plantelDocente">Plantel Docente</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#galeria">Imagenes</a>
+              <a class="nav-link" href="#galeria">Galeria</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Historia</a>
+              <a class="nav-link" href="#">Infraestructura</a>
             </li>
           </ul>
           <form class="d-flex">
