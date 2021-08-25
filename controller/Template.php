@@ -1,7 +1,8 @@
-<?php 
+<?php
+ob_start();
 class Plantilla{
 	public function llamarTemplate(){
-		include "views/Template.php";
+		include "views/template.php";
 	}
 }
 ?>
