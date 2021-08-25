@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -13,10 +13,24 @@
     <?php 
         include_once ("inclusiones/header.php");
         include_once ("inclusiones/inicio.php");
-        include_once ("inclusiones/mision.php");
+        //include_once ("inclusiones/mision.php");
         ?>
 
         <!-------barra de navegacion------->
+
+        <!-------seccion de mision----->
+          <section id="inicio" style="background-color: #F2F2F2;"><br><br><br><br>
+            <div class="container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-12">
+                  <?php
+                  include_once ("inclusiones/mision.php");
+                  ?>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-------seccion de mision----->
 
           <!-------seccion de actividades----->
           <section id="actividades" ><br><br><br>
@@ -33,7 +47,7 @@
             </div>
             <div class="container about-container wow fadeInUp">
               <div class="row">
-                <div class="col-md-10">
+                <div class="col-md-12">
                   
 
 
@@ -58,7 +72,7 @@
             </div>
             <div class="container about-container wow fadeInUp">
               <div class="row">
-                <div class="col-md-10">
+                <div class="col-md-12">
                   <?php 
                       include_once ("inclusiones/plantel.php");
                     ?>
@@ -83,7 +97,7 @@
             </div>
             <div class="container about-container wow fadeInUp">
               <div class="row">
-                <div class="col-md-10">
+                <div class="col-md-12">
                   <?php  
                       include_once ("inclusiones/galeria.php");  
                     ?>
@@ -108,7 +122,7 @@
             </div>
             <div class="container about-container wow fadeInUp">
               <div class="row">
-                <div class="col-md-10">
+                <div class="col-md-12">
                   <?php  
                         
                     ?>
