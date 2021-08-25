@@ -10,7 +10,6 @@
     <title>U.E. SOCAVON</title>
   </head>
   <body>
-
     <?php 
         include_once ("inclusiones/header.php");
         include_once ("inclusiones/inicio.php");
@@ -30,16 +29,12 @@
                   include_once ("inclusiones/plantel.php");
                 ?>
                 
-                
                 <hr class="featurette-divider">
                 <h2 id="galeria">Galeria de Imágines</h2>
                 <?php  
                   include_once ("inclusiones/galeria.php");  
                 ?>
                 
-                
-
-
                 <hr class="featurette-divider">
                 <h2 id="historia">historia</h2>
             </div>
