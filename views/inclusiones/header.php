@@ -19,7 +19,7 @@
               <a class="nav-link" href="#galeria">Galeria</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Infraestructura</a>
+              <a class="nav-link" href="#infraestructura">Infraestructura</a>
             </li>
           </ul>
           <form class="d-flex">

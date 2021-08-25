@@ -17,56 +17,112 @@
         ?>
 
         <!-------barra de navegacion------->
-        <div class="container">
-          <div class="row">
-            <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
 
-                <hr class="featurette-divider" id="actividades">
+          <!-------seccion de actividades----->
+          <section id="actividades" ><br><br><br>
+            <div class="container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-12">
 
-                <div class="row">
-                  <div class="col-md-12" >
-                    <h2 >Actividades</h2>
-                  </div>
+                  <hr class="featurette-divider">
+                  
+                  <h2 class="section-title">Actividades</h2>
+                  <div class="section-title-divider"></div>
+
                 </div>
-                
-                
-                <hr class="featurette-divider" id="plantel">
+              </div>
+            </div>
+            <div class="container about-container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-10">
+                  
 
-                <div class="row" >
-                  <div class="col-md-12">
-                    <h2>Plantel Docente</h2>
-                    <?php 
+
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-------seccion de actividades----->
+          
+          <!-------seccion de plantel docente---------> 
+           <section id="plantel" style="background-color: #CED8F6;"><br><br><br>
+            <div class="container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-12">
+
+                  <hr class="featurette-divider">
+                  
+                  <h2>Plantel Docente</h2>
+                  <div class="section-title-divider"></div>
+
+                </div>
+              </div>
+            </div>
+            <div class="container about-container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-10">
+                  <?php 
                       include_once ("inclusiones/plantel.php");
                     ?>
-                  </div>
                 </div>
-                    
-                
-                <hr class="featurette-divider" id="galeria">
+              </div>
+            </div>
+          </section>
+          <!-------seccion de plantel docente--------->  
 
-                <div class="row" >
-                  <div class="col-md-12" >
-                    <h2>Galeria de Imágines</h2>
-                    <?php  
+          <!-------seccion de galeria---------> 
+           <section id="galeria" style="background-color:#F5BCA9;"><br><br><br>
+            <div class="container wow fadeInUp">
+              <div class="row" >
+                <div class="col-md-12">
+
+                  <hr class="featurette-divider">
+                  
+                  <h2>Galeria de Imágines</h2>
+                  <div class="section-title-divider"></div>
+
+                </div>
+              </div>
+            </div>
+            <div class="container about-container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-10">
+                  <?php  
                       include_once ("inclusiones/galeria.php");  
                     ?>
-                  </div>
                 </div>
-                    
-                
-                
-
-                <hr class="featurette-divider" id="historia">
-
-                <div class="row" >
-                  <div class="col-md-12">
-                    <h2 id="historia">Infraestructura</h2>
-                  </div>
-                </div>
-                
+              </div>
             </div>
-          </div>
-        </div>
+          </section>
+          <!-------seccion de galeria---------> 
+
+          <!-------seccion de infraestructura---------> 
+           <section id="infraestructura" style="background-color:#CEF6F5;"><br><br><br>
+            <div class="container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-12">
+
+                  <hr class="featurette-divider">
+                  
+                  <h2 id="historia">Infraestructura</h2>
+                  <div class="section-title-divider"></div>
+
+                </div>
+              </div>
+            </div>
+            <div class="container about-container wow fadeInUp">
+              <div class="row">
+                <div class="col-md-10">
+                  <?php  
+                        
+                    ?>
+                </div>
+              </div>
+            </div>
+            </div>
+          </section>
+          <!-------seccion de infraestructura---------> 
+         
         <!-------barra de navegacion------->
 
         <?php
