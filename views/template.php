@@ -20,23 +20,50 @@
         <div class="container">
           <div class="row">
             <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
-                <hr class="featurette-divider">
-                <h2 id="actividades">Actividades</h2>
+
+                <hr class="featurette-divider" id="actividades">
+
+                <div class="row">
+                  <div class="col-md-12" >
+                    <h2 >Actividades</h2>
+                  </div>
+                </div>
                 
-                <hr class="featurette-divider">
-                <h2 id="plantel">Plantel Docente</h2>
-                <?php 
-                  include_once ("inclusiones/plantel.php");
-                ?>
                 
-                <hr class="featurette-divider">
-                <h2 id="galeria">Galeria de Imágines</h2>
-                <?php  
-                  include_once ("inclusiones/galeria.php");  
-                ?>
+                <hr class="featurette-divider" id="plantel">
+
+                <div class="row" >
+                  <div class="col-md-12">
+                    <h2>Plantel Docente</h2>
+                    <?php 
+                      include_once ("inclusiones/plantel.php");
+                    ?>
+                  </div>
+                </div>
+                    
                 
-                <hr class="featurette-divider">
-                <h2 id="historia">historia</h2>
+                <hr class="featurette-divider" id="galeria">
+
+                <div class="row" >
+                  <div class="col-md-12" >
+                    <h2>Galeria de Imágines</h2>
+                    <?php  
+                      include_once ("inclusiones/galeria.php");  
+                    ?>
+                  </div>
+                </div>
+                    
+                
+                
+
+                <hr class="featurette-divider" id="historia">
+
+                <div class="row" >
+                  <div class="col-md-12">
+                    <h2 id="historia">Infraestructura</h2>
+                  </div>
+                </div>
+                
             </div>
           </div>
         </div>
