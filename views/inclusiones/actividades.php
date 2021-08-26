@@ -69,5 +69,40 @@
 
     <hr class="featurette-divider">
 
+    <div class="row align-items-start">
+      <div class="col">
+        <h5 class="text-center">DÍA DE LA FAMILIA</h5>
+          <p class="text-justify">Un par de eventos importantes en la agenda comunitaria del colegio, en los cuales las familias interactúan a través de juegos, diversión y muchas sorpresas.</p>
+      </div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+  			  src="views/actividades/familia1.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+  			  alt="Eniun"
+  			/>
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+  			  src="views/actividades/familia2.jpg"
+  			  class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+  			  alt=""
+  			/>
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+  			  src="views/actividades/familia3.jpg"
+  			  class="w-100 shadow-1-strong rounded mb-4"
+  			  alt=""
+  			/>
+      </div>
+    </div>
+
+      <hr class="featurette-divider">
+
 </div>
 <!-- galeria -->
