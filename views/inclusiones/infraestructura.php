@@ -2,8 +2,8 @@
 	<div class="row">
 		<h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Infraestructura</h2>
 
-		<div class="col"></div>
-			<div class="col" align="center">
+		<div class="col-md-3"></div>
+			<div class="col-md-6" align="center">
 				<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
 					<div class="carousel-indicators">
 						<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -14,28 +14,28 @@
 				<b> 	
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="views/img/frontis.jpg" class="d-block" alt="..." width="400" height="350">
+							<img src="views/img/frontis.jpg" class="d-block" alt="..." width="600" height="400">
 							<div class="carousel-caption d-md-block bg-info">
 								<h5>FRONTIS</h5>
 								<p>Frontis Unidad Educativa Nuestra Señora del Socavon</p>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="views/img/sala.jpg" class="d-block" alt="..." width="400" height="350">
+						<img src="views/img/sala.jpg" class="d-block" alt="..." width="600" height="400">
 						<div class="carousel-caption d-md-block bg-info">
 							<h5>SALA DE COMPUTACION</h5>
 							<p>Ambientes equipados con sala de computacion.</p>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="views/img/quimica.jpg" class="d-block" alt="..." width="400" height="350">
+						<img src="views/img/quimica.jpg" class="d-block" alt="..." width="600" height="400">
 						<div class="carousel-caption d-md-block bg-info">
 							<h5>LABORATORIO DE QUIMICA</h5>
 							<p>Laboratorio de quimica nivel secundario.</p>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="views/img/piso.jpg" class="d-block" alt="..." width="400" height="350">
+						<img src="views/img/piso.jpg" class="d-block" alt="..." width="600" height="400">
 						<div class="carousel-caption d-md-block bg-info">
 							<h5>PISO TECNOLOGICO</h5>
 							<p>Computadoras quipus quinto y sexto de secundaria.</p>
@@ -53,7 +53,7 @@
 					</button>
 				</div>
 			</div>
-		<div class="col"></div>
+		<div class="col-md-3"></div>
 
 
 		<div class="container" align="center">
