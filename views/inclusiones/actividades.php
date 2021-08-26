@@ -1,83 +1,143 @@
-
-<!--<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Open modal for @mdo</button>
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@fat">Open modal for @fat</button>
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap">Open modal for @getbootstrap</button> -->
-
-<div class="modal fade " id="actividades" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title" id="exampleModalLabel">Actividades de la Unidad Educativa </h4>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        
-
-		<div class="container">
-			<div class="row">
-				<div class="card mb-3">
-				  <h5 class="card-header">6 de agosto</h5>
-				  <img src="views/img/1.jpg">
-				  <div class="card-body">
-				    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-				  </div>
-				  
-				  <div class="card-footer text-muted">
-				    2 days ago
-				  </div>
-				</div>
-				
-			</div>
-		</div>
-
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="list-group">
-					  <a href="#" class="list-group-item list-group-item-action active">Cras justo odio</a>
-					  <img src="views/img/logo.png">
-					  <a href="#" class="list-group-item list-group-item-action disabled">Morbi leo risus</a>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="list-group">
-					  <a href="#" class="list-group-item list-group-item-action active">Cras justo odio</a>
-					  <img src="views/img/logo.png">
-					  <a href="#" class="list-group-item list-group-item-action disabled">Morbi leo risus</a>
-					</div>
-				</div>
-				
-			</div>
-		</div> <br>
-
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="list-group">
-					  <a href="#" class="list-group-item list-group-item-action active">Cras justo odio</a>
-					  
-					  <a href="#" class="list-group-item list-group-item-action disabled">Morbi leo risus</a>
-					</div>
-				</div>
-			</div>
-		</div>
-		</div>
-		<div class="modal-footer">
-			<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-			<!--<button type="button" class="btn btn-primary">Send message</button> -->
-		</div>
+<!-- galeria -->
+<div class="container">
+  <div class="row align-items-start">
+    <div class="col">
+      <h5 class="text-center">AÑO DEPORTIVO</h5>
+        <p class="text-justify">El colegio trabaja dos grandes áreas de importancia para el desarrollo integral de nuestra comunidad estudiantil: la actividad física y el deporte. La primera en base a un programa de estimulación de ejercicios para el mantenimiento del buen estado físico (aspectos no competitivos). El deporte, a través de procesos organizados de detección de talentos, y la planificación deportiva mediante ciclos de entrenamiento (aspectos competitivos). Todo se inicia a partir de un significativo evento a través del cual se inaugura el “Año Deportivo”, recordando los aspectos disciplinarios y éticos que deben mantenerse vigentes durante todo el año.</p>
     </div>
   </div>
+  <div class="row align-items-center">
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+      <img
+			  src="views/actividades/deportivo1.jpg"
+        class="w-100 shadow-1-strong rounded mb-4"
+        class="rounded"
+			  alt="Eniun"
+			/>
+    </div>
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+      <img
+			  src="views/actividades/deportivo2.jpg"
+			  class="w-100 shadow-1-strong rounded mb-4"
+        class="rounded"
+			  alt=""
+			/>
+    </div>
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+      <img
+			  src="views/actividades/deportivo3.jpg"
+			  class="w-100 shadow-1-strong rounded mb-4"
+			  alt=""
+			/>
+    </div>
+  </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row align-items-start">
+      <div class="col">
+        <h5 class="text-center">SEMANA SANTA</h5>
+          <p class="text-justify">Bajo nuestra premisa espiritual, la Semana Santa ocupa un espacio importante en nuestro calendario de actividades. El vía crucis, representado por estudiantes de la promoción, se ha transformado en un evento que integra a docentes y estudiantes, así como a vecinos de nuestro colegio, recuperando valores religiosos importantes para nuestra comunidad, y convirtiéndonos en referentes regionales.</p>
+      </div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+          src="views/actividades/santa1.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+          alt="Eniun"
+        />
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+          src="views/actividades/santa2.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+          alt=""
+        />
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+          src="views/actividades/santa3.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          alt=""
+        />
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row align-items-start">
+      <div class="col">
+        <h5 class="text-center">DÍA DE LA FAMILIA</h5>
+          <p class="text-justify">Un par de eventos importantes en la agenda comunitaria del colegio, en los cuales las familias interactúan a través de juegos, diversión y muchas sorpresas.</p>
+      </div>
+    </div>
+
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+  			  src="views/actividades/familia1.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+  			  alt="Eniun"
+  			/>
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+  			  src="views/actividades/familia2.jpg"
+  			  class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+  			  alt=""
+  			/>
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+  			  src="views/actividades/familia3.jpg"
+  			  class="w-100 shadow-1-strong rounded mb-4"
+  			  alt=""
+  			/>
+      </div>
+    </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row align-items-start">
+        <div class="col">
+          <h5 class="text-center">VERBENA</h5>
+            <p class="text-justify">Luego de intensos ensayos, los diferentes cursos presentan danzas que llenan de colores y alegría un festival que emociona a las familias que observan las destrezas de sus hijas e hijos. La verbena, en homenaje al aniversario de fundación, se engalana con la presentación en vivo de un grupo de talla internacional.</p>
+        </div>
+      </div>
+
+      <div class="row align-items-center">
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+    			  src="views/actividades/verbena1.jpg"
+            class="w-100 shadow-1-strong rounded mb-4"
+            class="rounded"
+    			  alt="Eniun"
+    			/>
+        </div>
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+    			  src="views/actividades/verbena2.jpg"
+    			  class="w-100 shadow-1-strong rounded mb-4"
+            class="rounded"
+    			  alt=""
+    			/>
+        </div>
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+    			  src="views/actividades/verbena3.jpg"
+    			  class="w-100 shadow-1-strong rounded mb-4"
+    			  alt=""
+    			/>
+        </div>
+      </div>
+
+        <hr class="featurette-divider">
+
 </div>
-			
-
-
-
-
-
-
-
-
-
- 	
-
+<!-- galeria -->

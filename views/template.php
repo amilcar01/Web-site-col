@@ -10,7 +10,7 @@
     <title>U.E. SOCAVON</title>
   </head>
   <body>
-    <?php 
+    <?php
         include_once ("inclusiones/header.php");
         include_once ("inclusiones/inicio.php");
         //include_once ("inclusiones/mision.php");
@@ -33,14 +33,15 @@
           <!-------seccion de mision----->
 
           <!-------seccion de actividades----->
-          <section id="actividades" ><br><br><br>
+          <section id="actividades" style="background-color: #edecdf;"><br><br><br>
             <div class="container wow fadeInUp">
               <div class="row">
                 <div class="col-md-12">
 
                   <hr class="featurette-divider">
-                  
-                  <h2 class="section-title">Actividades</h2>
+
+                  <h2>Actividades</h2>
+                  <div class="section-title-divider"></div>
 
                 </div>
               </div>
@@ -48,14 +49,15 @@
             <div class="container about-container wow fadeInUp">
               <div class="row">
                 <div class="col-md-12">
-                  
-
-
+                  <?php
+                      include_once ("inclusiones/actividades.php");
+                    ?>
                 </div>
               </div>
             </div>
           </section>
           <!-------seccion de actividades----->
+
           
           <!-------seccion de plantel docente---------> 
           <?php 
@@ -65,14 +67,15 @@
 
 
 
-          <!-------seccion de galeria---------> 
+
+          <!-------seccion de galeria--------->
            <section id="galeria"><br><br><br>
             <div class="container wow fadeInUp">
               <div class="row" >
                 <div class="col-md-12">
 
                   <hr class="featurette-divider">
-                  
+
                   <h2>Galeria de Imágines</h2>
 
                 </div>
@@ -81,23 +84,23 @@
             <div class="container about-container wow fadeInUp">
               <div class="row">
                 <div class="col-md-12">
-                  <?php  
-                      include_once ("inclusiones/galeria.php");  
+                  <?php
+                      include_once ("inclusiones/galeria.php");
                     ?>
                 </div>
               </div>
             </div>
           </section>
-          <!-------seccion de galeria---------> 
+          <!-------seccion de galeria--------->
 
-          <!-------seccion de infraestructura---------> 
+          <!-------seccion de infraestructura--------->
            <section id="infraestructura" style="background-color:#F2F2F2;"><br><br><br>
             <div class="container wow fadeInUp">
               <div class="row">
                 <div class="col-md-12">
 
                   <hr class="featurette-divider">
-                  
+
                   <h2 id="historia">Infraestructura</h2>
 
                 </div>
@@ -106,16 +109,16 @@
             <div class="container about-container wow fadeInUp">
               <div class="row">
                 <div class="col-md-12">
-                  <?php  
-                        
+                  <?php
+
                     ?>
                 </div>
               </div>
             </div>
             </div>
           </section>
-          <!-------seccion de infraestructura---------> 
-         
+          <!-------seccion de infraestructura--------->
+
         <!-------barra de navegacion------->
 
         <?php
