@@ -1,7 +1,16 @@
+<section id="infraestructura"><br><br><br>
+	<div class="container wow fadeInUp">
+	  	<div class="row" >
+	    	<div class="col-md-12">
+
+		      	<hr class="featurette-divider">
+		      	<h2>Infraestructura</h2>
+
+	    	</div>
+	  	</div>
+	</div>
 <div class="container">
 	<div class="row">
-		<h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Infraestructura</h2>
-
 		<div class="col-md-3"></div>
 			<div class="col-md-6" align="center">
 				<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
@@ -96,4 +105,4 @@
 		</div>
 	</div>
 </div>
-             
+</section>            
