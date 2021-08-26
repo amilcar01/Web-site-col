@@ -32,7 +32,7 @@
 				<div class="card" style="width: 18rem;">
 				  	<img src="views/img/secre.jpg" class="card-img-top" alt="...">
 				  	<div class="card-body">
-					    <h5 class="card-title">Secretariar</h5>
+					    <h5 class="card-title">Secretaria</h5>
 					    <p class="card-text">Luz Maria Rojas</p>
 				  	</div>
 				</div>
@@ -94,7 +94,7 @@
 		<!--------prof. secundaria-------->
 		<div class="row" align="center">
 			<div class="col-md-12">
-				<h3 align="center">Profesores nivel Primaria</h3><br>
+				<h3 align="center">Profesores nivel Secundario</h3><br>
 			</div>
 			<div class="col-lg-3">
 				<div class="card" style="width: 18rem;">
