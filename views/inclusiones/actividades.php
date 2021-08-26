@@ -139,5 +139,38 @@
 
         <hr class="featurette-divider">
 
+        <div class="row align-items-start">
+          <div class="col">
+            <h5 class="text-center">FERIA DE LA PRODUCCIÓN</h5>
+              <p class="text-justify">Las diferentes áreas de formación, en cumplimiento del momento metodológico denominado “producción”, inician el cierre de sus actividades de avance curricular anual a través de exposiciones, talleres, ferias y otras modalidades creadas originalmente por estudiantes y docentes, demostrando las capacidades alcanzadas durante el año escolar.</p>
+          </div>
+        </div>
+
+        <div class="row align-items-center">
+          <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+            <img
+      			  src="views/actividades/feria1.jpg"
+              class="w-100 shadow-1-strong rounded mb-4"
+              class="rounded"
+      			  alt="Eniun"
+      			/>
+          </div>
+          <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+            <img
+      			  src="views/actividades/feria2.jpg"
+      			  class="w-100 shadow-1-strong rounded mb-4"
+              class="rounded"
+      			  alt=""
+      			/>
+          </div>
+          <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+            <img
+      			  src="views/actividades/feria3.jpg"
+      			  class="w-100 shadow-1-strong rounded mb-4"
+      			  alt=""
+      			/>
+          </div>
+        </div>
+
 </div>
 <!-- galeria -->
