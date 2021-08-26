@@ -33,7 +33,7 @@
           <!-------seccion de mision----->
 
           <!-------seccion de actividades----->
-          <section id="actividades" style="background-color: #edecdf;"><br><br><br>
+          <section id="actividades" ><br><br><br>
             <div class="container wow fadeInUp">
               <div class="row">
                 <div class="col-md-12">
