@@ -19,7 +19,16 @@
 				<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
 				<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
 				<button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
-			</div>		
+			</div>	
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					<img src="views/img/frontis.jpg" class="d-block" alt="..." width="400" height="350">
+					<div class="carousel-caption d-md-block bg-info">
+						<h5>FRONTIS</h5>
+						<p>Frontis Unidad Educativa Nuestra Señora del Socavon</p>
+					</div>
+				</div>
+			</div>
 		</div>
     </div>
   </div>
