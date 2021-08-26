@@ -42,6 +42,13 @@
 						<p>Laboratorio de quimica nivel secundario.</p>
 					</div>
 				</div>
+				<div class="carousel-item">
+					<img src="views/img/piso.jpg" class="d-block" alt="..." width="400" height="350">
+					<div class="carousel-caption d-md-block bg-info">
+						<h5>PISO TECNOLOGICO</h5>
+						<p>Computadoras quipus quinto y sexto de secundaria.</p>
+					</div>
+				</div>
 			</div>
 		</div>
     </div>
