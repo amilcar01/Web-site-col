@@ -5,7 +5,7 @@
 			<img src="views/img/admin.jpg">
 		</div>
 		<div class="col-md-6">
-			<center><H4>Plantel Administrativo</H4></center>
+			<center><H4 >Plantel Administrativo</H4></center>
 			<table class="table table-hover">
 			  <thead class="table-dark">
 			    <tr>
@@ -136,11 +136,3 @@
 	</div>
 </div><br><br>
 <!----prof. secundaria----->
-			
-			
-			
-		
-
-		
-	
-

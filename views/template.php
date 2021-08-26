@@ -8,6 +8,7 @@
     <link href="views/img/col.ico" rel='shortcut icon' type='image/ico'/>
     <link rel="stylesheet" type="text/css" href="views/css/bootstrap.min.css">
     <title>U.E. SOCAVON</title>
+
   </head>
   <body>
     <?php 
@@ -15,7 +16,7 @@
         include_once ("inclusiones/inicio.php");
         //include_once ("inclusiones/mision.php");
         ?>
-
+<div id="myDIV"> 
         <!-------barra de navegacion------->
 
         <!-------seccion de mision----->
@@ -49,8 +50,6 @@
               <div class="row">
                 <div class="col-md-12">
                   
-
-
                 </div>
               </div>
             </div>
@@ -134,7 +133,7 @@
           <!-------seccion de infraestructura---------> 
          
         <!-------barra de navegacion------->
-
+</div>
         <?php
         include_once ("inclusiones/footer.php");
     ?>
@@ -143,5 +142,6 @@
     <script src="views/js/bootstrap.bundle.min1.js"></script>
     <script src="views/js/prism1.js"></script>
     <script src="views/js/custom1.js"></script>
+    <script src="views/js/busqueda.js"></script>
   </body>
 </html>

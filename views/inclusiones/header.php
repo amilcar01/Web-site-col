@@ -23,8 +23,9 @@
             </li>
           </ul>
           <form class="d-flex">
-            <input class="form-control me-sm-2" type="text" placeholder="Buscar">
-            <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar...</button>
+            <input class="form-control me-sm-2" id="busqueda" placeholder="Buscar">
+            <button class="btn btn-secondary my-2 my-sm-0" id="button">Buscar...</button>
+            <span id="results"></span>
           </form>
         </div>
       </div>
