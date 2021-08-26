@@ -104,5 +104,40 @@
 
       <hr class="featurette-divider">
 
+      <div class="row align-items-start">
+        <div class="col">
+          <h5 class="text-center">VERBENA</h5>
+            <p class="text-justify">Luego de intensos ensayos, los diferentes cursos presentan danzas que llenan de colores y alegría un festival que emociona a las familias que observan las destrezas de sus hijas e hijos. La verbena, en homenaje al aniversario de fundación, se engalana con la presentación en vivo de un grupo de talla internacional.</p>
+        </div>
+      </div>
+
+      <div class="row align-items-center">
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+    			  src="views/actividades/verbena1.jpg"
+            class="w-100 shadow-1-strong rounded mb-4"
+            class="rounded"
+    			  alt="Eniun"
+    			/>
+        </div>
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+    			  src="views/actividades/verbena2.jpg"
+    			  class="w-100 shadow-1-strong rounded mb-4"
+            class="rounded"
+    			  alt=""
+    			/>
+        </div>
+        <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+          <img
+    			  src="views/actividades/verbena3.jpg"
+    			  class="w-100 shadow-1-strong rounded mb-4"
+    			  alt=""
+    			/>
+        </div>
+      </div>
+
+        <hr class="featurette-divider">
+
 </div>
 <!-- galeria -->
