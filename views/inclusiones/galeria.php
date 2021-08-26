@@ -4,7 +4,7 @@
 	    	<div class="col-md-12">
 
 		      	<hr class="featurette-divider">
-		      	<h2>Galeria de Imágines</h2>
+		      	<h2>Galeria de Imágenes</h2>
 
 	    	</div>
 	  	</div>
