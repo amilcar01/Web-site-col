@@ -12,6 +12,9 @@
   <body>
     <?php
         include_once ("inclusiones/header.php");
+    ?>
+    <div id="myDIV">
+    <?php
         include_once ("inclusiones/inicio.php");
         include_once ("inclusiones/mision.php");
         include_once ("inclusiones/actividades.php");
@@ -20,10 +23,12 @@
         include_once ("inclusiones/infraestructura.php");
         include_once ("inclusiones/footer.php");
     ?>
+      </div>
     <script src="views/js/jquery.min1.js"></script>
     <script src="views/js/bootstrap.min.js"></script>
     <script src="views/js/bootstrap.bundle.min1.js"></script>
     <script src="views/js/prism1.js"></script>
     <script src="views/js/custom1.js"></script>
+    <script src="views/js/busqueda.js"></script>
   </body>
 </html>
