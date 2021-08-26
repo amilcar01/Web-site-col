@@ -34,5 +34,40 @@
 
     <hr class="featurette-divider">
 
+    <div class="row align-items-start">
+      <div class="col">
+        <h5 class="text-center">SEMANA SANTA</h5>
+          <p class="text-justify">Bajo nuestra premisa espiritual, la Semana Santa ocupa un espacio importante en nuestro calendario de actividades. El vía crucis, representado por estudiantes de la promoción, se ha transformado en un evento que integra a docentes y estudiantes, así como a vecinos de nuestro colegio, recuperando valores religiosos importantes para nuestra comunidad, y convirtiéndonos en referentes regionales.</p>
+      </div>
+    </div>
 
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+          src="views/actividades/santa1.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+          alt="Eniun"
+        />
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+          src="views/actividades/santa2.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          class="rounded"
+          alt=""
+        />
+      </div>
+      <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+          src="views/actividades/santa3.jpg"
+          class="w-100 shadow-1-strong rounded mb-4"
+          alt=""
+        />
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+</div>
 <!-- galeria -->
