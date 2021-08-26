@@ -12,8 +12,11 @@
     <div class="container about-container wow fadeInUp">
     	<!--------plantel administrativo-------->
 		<div class="row" align="center">
-			<div class="col-md-4"><br><br><br><br>
+			<div class="col-md-12">
 				<h3 align="center">Plantel Administrativo</h3>
+			</div><br><br>
+			<div class="col-md-4"><br><br><br><br>
+				
 			</div>
 			<div class="col-md-4">
 
@@ -71,7 +74,7 @@
 				<div class="card" style="width: 18rem;">
 				  	<img src="views/img/pri2.jpg" class="card-img-top" alt="...">
 				  	<div class="card-body">
-				    	<h5 class="card-title">Prof. Leguaje</h5>
+				    	<h5 class="card-title">Prof. Lenguaje</h5>
 				    	<p class="card-text">Mirian Fuentes</p>
 				  	</div>
 				</div>
