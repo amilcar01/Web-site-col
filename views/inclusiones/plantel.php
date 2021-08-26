@@ -13,18 +13,16 @@
 			<div class="col-md-12">
 				<h3 align="center">Plantel Administrativo</h3>
 			</div><br><br>
-			<div class="col-md-4"><br><br><br><br>
-				
+			<div class="col-md-4">
 			</div>
 			<div class="col-md-4">
-			<div class="card" style="width: 18rem;">
-			  	<img src="views/img/dir.jpg" class="card-img-top" alt="..." >
-			  	<div class="card-body" align="center">
-			    	<h5 class="card-title">Director</h5>
-			    	<p class="card-text">Juan Jose Colque</p>
-			  	</div>
-			</div>
-			  
+				<div class="card" style="width: 18rem;">
+				  	<img src="views/img/dir.jpg" class="card-img-top" alt="..." >
+				  	<div class="card-body" align="center">
+				    	<h5 class="card-title">Director</h5>
+				    	<p class="card-text">Juan Jose Colque</p>
+				  	</div>
+				</div>
 			</div>
 			<div class="col-md-4">
 			</div>
@@ -48,7 +46,6 @@
 				  	</div>
 				</div>
 			</div>
-			
 		</div><br><br>
 		<!--------plantel administrativo-------->
 		<!--------prof. primaria-------->
